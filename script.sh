@@ -76,7 +76,7 @@ RESDATE=$(date)
 ####################
 
 cp /home/anton/Konovalov_Anton/Directory_2/Konovalov_Anton.txt /home/anton/Konovalov_Anton/
-cp /home/anton/Konovalov_Anton/Directory_3/Konovalov_Anton.txt /home/anton/Konovalov_Anton/1Konovalov_Anton.txt
+cp /home/anton/Konovalov_Anton/Directory_3/Konovalov_Anton.txt /home/anton/Konovalov_Anton/1_0Konovalov_Anton.txt
 
 ########################
 #Проверка Email в файле#
